@@ -33,7 +33,12 @@ La app estará disponible en `http://localhost:3000`
   - AWS:
     - `AWS_ACCESS_KEY_ID`
     - `AWS_ACCESS_ACCESS_KEY`
+    - `AWS_ACCESS_ACCESS_TOKEN`
   - Azure
     - Configurar la variable de perfil
 6. Subir un nuevo cambio al repositorio
 7. Opcionalmente: crear un test que falle y comprobar que no se realiza el despliegue.
+
+
+Mi aplicación en:
+http://aplicacioncristobalrubio-env.eba-pg8wih79.us-east-1.elasticbeanstalk.com/
